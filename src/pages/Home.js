@@ -60,8 +60,8 @@ class Home extends Component {
     })
       .then(({ data }) => {
         if (data.status === 'success') {
-          this.setState({ 
-            citiesResultSearch: data.location_suggestions, 
+          this.setState({
+            citiesResultSearch: data.location_suggestions,
             keyword: '',
             cityKeywordSearch: keyword
           })
@@ -73,28 +73,28 @@ class Home extends Component {
   render() {
     return (
       <>
-      <ImageAndWelcome />
-      <div className="container" style={{ marginTop: 30, marginBottom: 30 }}>
-        <CityList title={'Featured Cities'} cities={this.state.featuredCities} />
+        <ImageAndWelcome />
+        <div className="container" style={{ marginTop: 30, marginBottom: 30 }}>
+          <CityList title={'Featured Cities'} cities={this.state.featuredCities} />
 
-        <SearchCity
-          value={this.state.keyword}
-          onChange={this.changeKeywordHandler}
-          onClickSearch={this.searchHandler}
-        />
+          <SearchCity
+            value={this.state.keyword}
+            onChange={this.changeKeywordHandler}
+            onClickSearch={this.searchHandler}
+          />
 
-        {
-          this.state.cityKeywordSearch !== '' && (
-            <CityList
-              title={'Search Result'}
-              showSubtitle={true}
-              subtitle={this.state.cityKeywordSearch}
-              cities={this.state.citiesResultSearch}
-            />  
-          )
-        }  
+          {
+            this.state.cityKeywordSearch !== '' && (
+              <CityList
+                title={'Search Result'}
+                showSubtitle={true}
+                subtitle={this.state.cityKeywordSearch}
+                cities={this.state.citiesResultSearch}
+              />
+            )
+          }
 
-      </div>
+        </div>
       </>
     )
   }
