@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f146f95.chunk.css",
-    "main.js": "/static/js/main.31d7d1c0.chunk.js",
-    "main.js.map": "/static/js/main.31d7d1c0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fafa68b7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fafa68b7.js.map",
-    "static/js/2.6001b436.chunk.js": "/static/js/2.6001b436.chunk.js",
-    "static/js/2.6001b436.chunk.js.map": "/static/js/2.6001b436.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.547ea3037ef7bad1792f7222c4a7d6e8.js": "/precache-manifest.547ea3037ef7bad1792f7222c4a7d6e8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.7f146f95.chunk.css.map": "/static/css/main.7f146f95.chunk.css.map",
-    "static/js/2.6001b436.chunk.js.LICENSE.txt": "/static/js/2.6001b436.chunk.js.LICENSE.txt",
-    "static/media/aneka-makanan.png": "/static/media/aneka-makanan.87b5f04a.png"
+    "main.css": "/kp_web_kuliner/static/css/main.7f146f95.chunk.css",
+    "main.js": "/kp_web_kuliner/static/js/main.27452005.chunk.js",
+    "main.js.map": "/kp_web_kuliner/static/js/main.27452005.chunk.js.map",
+    "runtime-main.js": "/kp_web_kuliner/static/js/runtime-main.93c33b81.js",
+    "runtime-main.js.map": "/kp_web_kuliner/static/js/runtime-main.93c33b81.js.map",
+    "static/js/2.bd5c079a.chunk.js": "/kp_web_kuliner/static/js/2.bd5c079a.chunk.js",
+    "static/js/2.bd5c079a.chunk.js.map": "/kp_web_kuliner/static/js/2.bd5c079a.chunk.js.map",
+    "index.html": "/kp_web_kuliner/index.html",
+    "precache-manifest.314a849f84e4e34d49d5dec72d224fd8.js": "/kp_web_kuliner/precache-manifest.314a849f84e4e34d49d5dec72d224fd8.js",
+    "service-worker.js": "/kp_web_kuliner/service-worker.js",
+    "static/css/main.7f146f95.chunk.css.map": "/kp_web_kuliner/static/css/main.7f146f95.chunk.css.map",
+    "static/js/2.bd5c079a.chunk.js.LICENSE.txt": "/kp_web_kuliner/static/js/2.bd5c079a.chunk.js.LICENSE.txt",
+    "static/media/aneka-makanan.png": "/kp_web_kuliner/static/media/aneka-makanan.87b5f04a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fafa68b7.js",
-    "static/js/2.6001b436.chunk.js",
+    "static/js/runtime-main.93c33b81.js",
+    "static/js/2.bd5c079a.chunk.js",
     "static/css/main.7f146f95.chunk.css",
-    "static/js/main.31d7d1c0.chunk.js"
+    "static/js/main.27452005.chunk.js"
   ]
 }
