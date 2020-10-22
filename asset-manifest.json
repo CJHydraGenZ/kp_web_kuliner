@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kp_web_kuliner/static/css/main.7f146f95.chunk.css",
-    "main.js": "/kp_web_kuliner/static/js/main.27452005.chunk.js",
-    "main.js.map": "/kp_web_kuliner/static/js/main.27452005.chunk.js.map",
+    "main.js": "/kp_web_kuliner/static/js/main.83b928ef.chunk.js",
+    "main.js.map": "/kp_web_kuliner/static/js/main.83b928ef.chunk.js.map",
     "runtime-main.js": "/kp_web_kuliner/static/js/runtime-main.93c33b81.js",
     "runtime-main.js.map": "/kp_web_kuliner/static/js/runtime-main.93c33b81.js.map",
     "static/js/2.bd5c079a.chunk.js": "/kp_web_kuliner/static/js/2.bd5c079a.chunk.js",
     "static/js/2.bd5c079a.chunk.js.map": "/kp_web_kuliner/static/js/2.bd5c079a.chunk.js.map",
     "index.html": "/kp_web_kuliner/index.html",
-    "precache-manifest.314a849f84e4e34d49d5dec72d224fd8.js": "/kp_web_kuliner/precache-manifest.314a849f84e4e34d49d5dec72d224fd8.js",
+    "precache-manifest.f0254b826f6361038fa228f22ecddddc.js": "/kp_web_kuliner/precache-manifest.f0254b826f6361038fa228f22ecddddc.js",
     "service-worker.js": "/kp_web_kuliner/service-worker.js",
     "static/css/main.7f146f95.chunk.css.map": "/kp_web_kuliner/static/css/main.7f146f95.chunk.css.map",
     "static/js/2.bd5c079a.chunk.js.LICENSE.txt": "/kp_web_kuliner/static/js/2.bd5c079a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.93c33b81.js",
     "static/js/2.bd5c079a.chunk.js",
     "static/css/main.7f146f95.chunk.css",
-    "static/js/main.27452005.chunk.js"
+    "static/js/main.83b928ef.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "195a6500a5218a20bc17e5f79f1664e6",
+    "revision": "7c11e3d570f14b46b76473b3afad0fb8",
     "url": "/kp_web_kuliner/index.html"
   },
   {
-    "revision": "425a2eb446143809e22c",
+    "revision": "1e7dcf9f3b044b156d36",
     "url": "/kp_web_kuliner/static/css/main.7f146f95.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kp_web_kuliner/static/js/2.bd5c079a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "425a2eb446143809e22c",
-    "url": "/kp_web_kuliner/static/js/main.27452005.chunk.js"
+    "revision": "1e7dcf9f3b044b156d36",
+    "url": "/kp_web_kuliner/static/js/main.83b928ef.chunk.js"
   },
   {
     "revision": "cdde873454d15cdebe5e",
