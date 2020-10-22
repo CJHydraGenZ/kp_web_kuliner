@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kp_web_kuliner/precache-manifest.314a849f84e4e34d49d5dec72d224fd8.js"
+  "/kp_web_kuliner/precache-manifest.1426601f08470518850b334df0a6eb91.js"
 );
 
 self.addEventListener('message', (event) => {
